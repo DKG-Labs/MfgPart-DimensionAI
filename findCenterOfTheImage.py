@@ -6,7 +6,7 @@ import csv
 
 # Relative paths
 base_path = Path(__file__).parent
-image_path = base_path / "image2.jpeg"
+image_path = base_path / "reverseSideView.jpeg"
 output_csv_path = base_path / "output_dimensions_filtered.csv"
 processed_image_path = base_path / "processed_image.jpeg"
 
